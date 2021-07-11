@@ -5,3 +5,4 @@ _site
 vendor
 *.lock
 .DS_Store
+/index.assets/webappos.pxd
