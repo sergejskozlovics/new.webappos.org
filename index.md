@@ -13,8 +13,9 @@ list_title: News
 <p align="center"><img src="index.assets/webappos.svg" alt="webappos" style="width:80%;height:auto;" /></p>
 
 
-
+<p align="justify">
 *webAppOS* is an operating system analogue for web applications. It defines APIs that provide seamless access to shared resources (*web processors*, *web memory*, and *web I/O devices*) from server-side and client-side code. Thus, web applications can be developed like traditional desktop applications assuming a single *web computer* as a target.
+</p>
 
 | ![img](https://webappos.org/osi_standard_logo.gif) | ![img](https://webappos.org/java-logo.png)                   | ![img](https://webappos.org/ram-logo.png)                    | ![img](https://webappos.org/processor-logo.png)              | ![img](https://webappos.org/cloud-logo.png)                  |
 | -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
